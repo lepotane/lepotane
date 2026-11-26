@@ -82,6 +82,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/lepotane/VIctory-leonida">
+        <img src="assets/cards/card-victory-leonida.svg" alt="VIctory-leonida" width="100%" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 <!-- PROJECTS:END -->
 
