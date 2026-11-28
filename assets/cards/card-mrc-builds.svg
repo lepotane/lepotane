@@ -16,7 +16,7 @@
   <rect x="0" y="28" width="3.5" height="134" rx="1.75" fill="url(#g)"/>
   <text x="24" y="34" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6">MEDIA ECOSYSTEM // AUTONOMOUS CI</text>
   <rect x="436" y="17" width="122" height="22" rx="6" fill="#0c2e28" stroke="#10b981" stroke-opacity="0.45" stroke-width="1"/>
-  <text x="497" y="32" text-anchor="middle" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="0.9">17 STARS · LIVE</text>
+  <text x="497" y="32" text-anchor="middle" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="0.9">18 STARS · LIVE</text>
   <text x="24" y="68" fill="#f8fafc" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18.5" font-weight="700" letter-spacing="-0.2">MRC CloudStream Plugin Ecosystem</text>
   <text x="24" y="96" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.3">High-availability Turkish movie, series &amp; anime plugin repository</text>
   <text x="24" y="116" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.3">(.cs3) with automated GitHub Actions build &amp; QA pipelines.</text>
